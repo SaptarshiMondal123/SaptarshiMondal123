@@ -10,7 +10,7 @@
 Hi, I'm Saptarshi.
 
 
-<-- TO DO: add more details about me later -->
+<TO DO: add more details about me later >
 
 
 <details>
