@@ -10,10 +10,10 @@
 Hi, I'm Saptarshi. You might recognize me as GitHub's mascot.
 
 
-| Rank | THING-TO-RANK |
+| Rank |    HOBBIES    |
 |-----:|---------------|
-|     1|               |
-|     2|               |
+|     1|    GAMING     |
+|     2|    HIKING     |
 |     3|               |
 
 
