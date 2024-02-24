@@ -10,12 +10,15 @@
 Hi, I'm Saptarshi. You might recognize me as GitHub's mascot.
 
 
+<details>
+<summary>My top languages</summary>
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
 |     2| C++       |
 |     3| SQL       |
 
+</details>
 
 <!--
 **SaptarshiMondal123/SaptarshiMondal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
