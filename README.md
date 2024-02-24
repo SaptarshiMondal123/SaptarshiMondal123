@@ -9,6 +9,13 @@
 
 Hi, I'm Saptarshi. You might recognize me as GitHub's mascot.
 
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
+
 <!--
 **SaptarshiMondal123/SaptarshiMondal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
