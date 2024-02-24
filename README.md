@@ -7,7 +7,9 @@
 
 ## About me
 
-Hi, I'm Saptarshi. You might recognize me as GitHub's mascot.
+Hi, I'm Saptarshi.
+
+<!-- TO DO: add more details about me later -->
 
 
 <details>
