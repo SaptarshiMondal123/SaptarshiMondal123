@@ -12,6 +12,7 @@ Hi, I'm Saptarshi. You might recognize me as GitHub's mascot.
 
 <details>
 <summary>My top languages</summary>
+  
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
