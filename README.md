@@ -241,9 +241,6 @@ I'm always excited to discuss AI/ML projects, research opportunities, and innova
 
 ---
 
-### 🎵 Currently Coding To:
-[![Spotify](https://spotify-now-playing-on-readme.vercel.app/api/spotify)](https://open.spotify.com/user/31t4cqanppglgc5n2rcaju2u7bqq)
-
 <!-- 
 Thanks for visiting my profile! 
 Feel free to reach out if you want to discuss AI, collaborate on projects, or just chat about technology! 
