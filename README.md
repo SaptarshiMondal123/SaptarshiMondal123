@@ -23,7 +23,7 @@
 🎯 **Goal**: Contributing to the future of AI through innovative research and applications  
 
 ### 📊 Academic Excellence
-- **CGPA**: 8.82/10 (Current)
+- **CGPA**: 8.81/10 (Current)
 - **Specialization**: Machine Learning, Deep Learning, Generative AI
 - **Research Interests**: LLMs, RAG Systems, Low-Resource Language AI
 
