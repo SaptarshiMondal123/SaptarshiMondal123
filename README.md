@@ -55,7 +55,7 @@ me.say_hi()
 
 | 🎓 Education | 📊 CGPA | 🔬 Research Focus | 🎯 Goal |
 |:---:|:---:|:---:|:---:|
-| B.Tech CSE @ UIT Burdwan | **8.81/10** | Low-Resource NLP & RAG | AI Innovation |
+| B.Tech CSE @ UIT Burdwan | **8.75/10** | Low-Resource NLP & RAG | AI Innovation |
 
 </div>
 
