@@ -3,16 +3,10 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saptarshi%20Mondal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20|%20Generative%20AI%20Specialist&descAlignY=52&descSize=18"/>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-
 <!-- Animated Typing -->
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%A4%96+AI%2FML+Enthusiast+%7C+LLM+Specialist;%F0%9F%9A%80+Building+RAG+Pipelines+%26+Agentic+AI;%F0%9F%8E%93+Computer+Science+Undergraduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=80&lines=%F0%9F%A4%96+AI%2FML+Enthusiast+%7C+LLM+Specialist;%F0%9F%9A%80+Building+RAG+Pipelines+%26+Agentic+AI;%F0%9F%8E%93+Computer+Science+Undergraduate)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
-<br/>
-
 <a href="https://resume-seven-gamma-38.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
@@ -30,14 +24,9 @@
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> About Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
+## 👨‍💻 About Me
 
 ```python
 class SaptarshiMondal:
@@ -62,14 +51,6 @@ me = SaptarshiMondal()
 me.say_hi()
 ```
 
-</td>
-<td width="45%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400px"/>
-</td>
-</tr>
-</table>
-
-<!-- Quick Stats -->
 <div align="center">
 
 | 🎓 Education | 📊 CGPA | 🔬 Research Focus | 🎯 Goal |
@@ -78,42 +59,48 @@ me.say_hi()
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"/> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&theme=dark&perline=6" />
-
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧠 AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=8" />
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<br/><br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode,mysql,postgres,flask&theme=dark&perline=8" />
-<br/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"/> Specializations
+## ⭐ Specializations
 
 <div align="center">
 <table>
@@ -121,7 +108,6 @@ me.say_hi()
 <td width="50%" align="center">
 
 ### 🤖 Large Language Models
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80px"/>
 
 | Expertise | Level |
 |:---|:---:|
@@ -134,7 +120,6 @@ me.say_hi()
 <td width="50%" align="center">
 
 ### 🎨 Generative AI
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80px"/>
 
 | Expertise | Level |
 |:---|:---:|
@@ -148,52 +133,48 @@ me.say_hi()
 </table>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35px"/> Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/SaptarshiMondal123/AI-Medical-Diagnosis-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaptarshiMondal123&repo=AI-Medical-Diagnosis-System&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaptarshiMondal123&repo=AI-Medical-Diagnosis-System&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/SaptarshiMondal123/Summary_Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaptarshiMondal123&repo=Summary_Generator&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaptarshiMondal123&repo=Summary_Generator&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
 <a href="https://github.com/SaptarshiMondal123/MNIST-Digit-Recognition-with-CNN-and-Streamlit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaptarshiMondal123&repo=MNIST-Digit-Recognition-with-CNN-and-Streamlit&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaptarshiMondal123&repo=MNIST-Digit-Recognition-with-CNN-and-Streamlit&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/SaptarshiMondal123/Real-time-Emotion-Detection-with-CNN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaptarshiMondal123&repo=Real-time-Emotion-Detection-with-CNN&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaptarshiMondal123&repo=Real-time-Emotion-Detection-with-CNN&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaptarshiMondal123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" alt="Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=SaptarshiMondal123&theme=tokyonight&hide_border=true&border_radius=15" alt="Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaptarshiMondal123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=SaptarshiMondal123&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaptarshiMondal123&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Languages"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaptarshiMondal123&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Languages"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaptarshiMondal123&theme=tokyo-night&hide_border=true&border_radius=15&area=true" width="98%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaptarshiMondal123&theme=tokyo-night&hide_border=true&border_radius=10&area=true" width="98%" alt="Activity Graph"/>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 ## 🏅 Certifications & Experience
 
@@ -203,7 +184,6 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 📜 Certifications
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60px"/>
 
 - 🎖️ **AI Engineer for Data Scientists** - DataCamp
 - 🎖️ **Artificial Intelligence Fundamentals** - IBM
@@ -213,7 +193,6 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 💼 Experience
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60px"/>
 
 **AI Intern @ TechSaksham**  
 *Microsoft & SAP CSR Initiative*
@@ -226,8 +205,7 @@ me.say_hi()
 </table>
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 <!-- Snake Animation -->
 <div align="center">
@@ -238,8 +216,7 @@ me.say_hi()
 </picture>
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+---
 
 <div align="center">
 
@@ -251,10 +228,13 @@ me.say_hi()
 
 <br/><br/>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=SaptarshiMondal123&label=Profile%20Views&labelColor=%23000000&countColor=%2336BCF7)
+![Visitors](https://komarev.com/ghpvc/?username=SaptarshiMondal123&color=36BCF7&style=for-the-badge&label=Profile+Views)
 
 <br/>
 
 **⭐ Star my repositories if you find them helpful!**
 
 </div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
