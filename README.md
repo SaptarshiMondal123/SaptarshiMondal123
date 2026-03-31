@@ -171,6 +171,10 @@ If it’s impossible, I’m already interested.
 
 <div align="center">
 
+<a href="https://github.com/SaptarshiMondal123/OpenRank-Agent-Code-">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SaptarshiMondal123&repo=OpenRank-Agent-Code-&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>
+
 <a href="https://github.com/SaptarshiMondal123/Sanavicare">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SaptarshiMondal123&repo=Sanavicare&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
